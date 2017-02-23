@@ -7,3 +7,5 @@ bl
 bs
 bd
 bg
+
+refer to: https://github.com/huyng/bashmarks
